@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Assets
+assets/*
+!assets/manifest.json
+
+# venv
+venv/

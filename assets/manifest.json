@@ -1,0 +1,22 @@
+{
+  "Default": {
+    "Happy": {
+      "0": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Happy/1",
+      "1": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Happy/2",
+      "2": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Happy/3"
+    },
+    "Ill": {
+      "0": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Ill/1",
+      "1": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Ill/2"
+    },
+    "Normal": {
+      "0": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Nomal/1",
+      "1": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Nomal/2",
+      "2": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/Nomal/3"
+    },
+    "Poor": {
+      "0": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/PoorCondition/1",
+      "1": "upstream/VPet/VPet-Simulator.Windows/mod/0000_core/pet/vup/Default/PoorCondition/2"
+    }
+  }
+}

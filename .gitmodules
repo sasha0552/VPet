@@ -1,0 +1,3 @@
+[submodule "upstream/VPet"]
+  path = upstream/VPet
+  url = https://github.com/LorisYounger/VPet.git
