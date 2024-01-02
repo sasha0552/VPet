@@ -1,12 +1,11 @@
 # VPet
-Lightweight reimplementation of [VPet](https://github.com/LorisYounger/VPet)
+Lightweight reimplementation of [VPet](https://github.com/LorisYounger/VPet).
 
 Supports only Linux and X11. Written using C.
 
 Currently WIP.
 
 ### Usage
-
 ```sh
 # create virtual env
 python3 -m venv venv
